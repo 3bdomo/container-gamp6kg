@@ -1,3 +1,15 @@
+# v0.0.3 (Fri Jun 07 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Create requirements.txt ([@3bdomo](https://github.com/3bdomo))
+
+#### Authors: 1
+
+- Abdulrahman Mohamed ([@3bdomo](https://github.com/3bdomo))
+
+---
+
 # v0.0.2 (Fri Jun 07 2024)
 
 #### ⚠️ Pushed to `main`
