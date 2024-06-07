@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "3bdomo",
+  "repo": "container-gamp6kg",
+  "name": "3bdomo",
+  "email": "abdulrahmanMA1242002@gmail.com",
+}
