@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Jun 07 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@3bdomo](https://github.com/3bdomo))
+
+#### Authors: 1
+
+- Abdulrahman Mohamed ([@3bdomo](https://github.com/3bdomo))
+
+---
+
 # v0.0.1 (Fri Jun 07 2024)
 
 :tada: This release contains work from a new contributor! :tada:
